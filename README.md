@@ -27,8 +27,7 @@ A quiz application developed using Flutter and Dart, demonstrating key concepts 
 
 ## 🧑🏻‍💻 Author
 
-- **DevCx420**  
-  [GitHub](https://www.github.com/gh-devcx420)
+- [DevCx420](https://www.github.com/gh-devcx420)
 
 ## 🌐 Socials
 
